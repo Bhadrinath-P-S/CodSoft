@@ -18,7 +18,7 @@ For this project, I created a simple yet functional calculator with features lik
 - JavaScript functionality for calculations.
 
 ## To-Do List
-![To-Do List](https://github.com/Bhadrinath-P-S/CodSoft/blob/main/CodSoft_Task03_To-Do-List/ToDoList.html)
+![To-Do List](https://bhadrinath-p-s.github.io/CodSoft/CodSoft_Task03_To-Do-List/ToDoList.html)
 The To-Do List application allows users to manage tasks efficiently with features such as:
 - Task addition, deletion, and editing.
 - Real-time task completion with a striking effect.
@@ -28,4 +28,4 @@ Feel free to explore these projects, check out the code, try the live applicatio
 
 🔗 [Portfolio Website](https://bhadrinath-p-s.github.io/CodSoft/CodSoft_Task01_Portfolio%20Website/Portfolio.html)
 🔗 [Calculator](https://bhadrinath-p-s.github.io/CodSoft/CodSoft_Task02_Calculator/Calculator.html)
-🔗 [To-Do List](https://github.com/Bhadrinath-P-S/CodSoft/blob/main/CodSoft_Task03_To-Do-List/ToDoList.html)
+🔗 [To-Do List](https://bhadrinath-p-s.github.io/CodSoft/CodSoft_Task03_To-Do-List/ToDoList.html)
