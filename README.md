@@ -1,6 +1,6 @@
 # CodSoft Projects
 
-Welcome to my coding journey where I've successfully completed a series of exciting projects! 👩‍💻
+Welcome to my coding journey where I've successfully completed a series of projects as part of my coding journey! 👩‍💻
 
 ## Portfolio Website
 🌐 [Portfolio Website](https://bhadrinath-p-s.github.io/CodSoft/CodSoft_Task01_Portfolio%20Website/Portfolio.html) :
