@@ -3,7 +3,7 @@
 Welcome to my coding journey where I've successfully completed a series of exciting projects! 👩‍💻
 
 ## Portfolio Website
-![Portfolio Website](https://bhadrinath-p-s.github.io/CodSoft/CodSoft_Task01_Portfolio%20Website/Portfolio.html)
+[Portfolio Website](https://bhadrinath-p-s.github.io/CodSoft/CodSoft_Task01_Portfolio%20Website/Portfolio.html)
 My portfolio website showcases my skills and projects. It provides a glimpse into my web development journey, including:
 - A captivating landing page.
 - A clean and user-friendly design.
@@ -11,14 +11,14 @@ My portfolio website showcases my skills and projects. It provides a glimpse int
 - Live links to my work.
 
 ## Calculator
-![Calculator](https://bhadrinath-p-s.github.io/CodSoft/CodSoft_Task02_Calculator/Calculator.html)
+[Calculator](https://bhadrinath-p-s.github.io/CodSoft/CodSoft_Task02_Calculator/Calculator.html)
 For this project, I created a simple yet functional calculator with features like:
 - Basic arithmetic operations.
 - A sleek and user-friendly design.
 - JavaScript functionality for calculations.
 
 ## To-Do List
-![To-Do List](https://bhadrinath-p-s.github.io/CodSoft/CodSoft_Task03_To-Do-List/ToDoList.html)
+[To-Do List](https://bhadrinath-p-s.github.io/CodSoft/CodSoft_Task03_To-Do-List/ToDoList.html)
 The To-Do List application allows users to manage tasks efficiently with features such as:
 - Task addition, deletion, and editing.
 - Real-time task completion with a striking effect.
